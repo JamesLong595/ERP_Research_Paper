@@ -1,2 +1,1 @@
-# ERP_Research_Paper
-Final project for ISM6156 ERP &amp; BPM at USF
+This was a group project for ISM6156 ERP & BPM at USF. Group members: James Long, Hankassi Nicholson. The research paper explores the hypothesis that the integration of certain advanced technologies into an ERP system can provide a competitive advantage. We used questionnaires, interviews, and secondary data as sources of evidence.
